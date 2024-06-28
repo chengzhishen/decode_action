@@ -4,7 +4,7 @@
 自动签到和做部分任务得积分, 积分可以换实物视频卡代金券等
 每天跑一两次即可
 
-携程app或者微信小程序登录后, 捉 m.ctrip.com 里面的cticket, 填到变量 xclxCookie 里面, 多账号换行隔开1
+携程app或者微信小程序登录后, 捉 m.ctrip.com 里面的cticket, 填到变量 xclxCookie 里面, 多账号换行隔开12
 export xclxCookie="xxxxxxxxxxxxxxxxxxx"
 
 cron: 44 6,17 * * *
